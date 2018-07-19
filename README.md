@@ -22,8 +22,8 @@ We've addressed some of the links to popular websites such as google, amazon, et
 Watch the working of live website [here](http://e-manit.onlinewebshop.net). Also see [Screenshots](https://github.com/AnkitJishan/e-MANIT#screenshots).
 
 ## Technologies Used
-- [HTML5](https://en.wikipedia.org/wiki/HTML)
-- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [HTML 5](https://en.wikipedia.org/wiki/HTML)
+- [CSS 3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ## How to view the project on your device?
 - Extract the master branch of project to your home directory/desktop.
@@ -48,7 +48,7 @@ Watch the working of live website [here](http://e-manit.onlinewebshop.net). Also
 We are willing to accept contributions from open source developers. What you have to do is simply fork this repository, made changes to it, and leave a pull request. Anybody can contribute to this repository following industry ethics.
 
 ## License
-This project is licensed under MIT Licence. You can not use, re-modify, distribute, etc. for commercial purposes. Read more about licence [here](https://en.wikipedia.org/wiki/MIT_License).
+This project is licensed under MIT Licence. You can not use, re-modify, distribute it for commercial purposes. Read more about licence [here](https://en.wikipedia.org/wiki/MIT_License).
 
     Copyright 2017-Present. Ankit Chouhan & Jishan Shaikh.
 
