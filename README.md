@@ -4,14 +4,14 @@
 > The name **e-MANIT** comes from internet of MANIT (Maulana Azad National Institute of Technology, Bhopal), the undergraduate college of the developers addressing a proper shopping website.
 
 # Sections
-- [Progress](https://github.com/AnkitJishan/e-MANIT/)
-- [Demo](https://github.com/AnkitJishan/e-MANIT)
-- [Technologies used](https://github.com/AnkitJishan/e-MANIT)
-- [How to view the project on your device?](https://github.com/AnkitJishan/e-MANIT)
-- [About Us](https://github.com/AnkitJishan/e-MANIT)
-- [Screenshots](https://github.com/AnkitJishan/e-MANIT)
-- [Contributions](https://github.com/AnkitJishan/e-MANIT)
-- [License](https://github.com/AnkitJishan/e-MANIT)
+- [Progress](https://github.com/AnkitJishan/e-MANIT#progress)
+- [Demo](https://github.com/AnkitJishan/e-MANIT#demo)
+- [Technologies used](https://github.com/AnkitJishan/e-MANIT#technologies-used)
+- [How to view the project on your device?](https://github.com/AnkitJishan/e-MANIT#how-to-view-the-project-on-your-device)
+- [About Us](https://github.com/AnkitJishan/e-MANIT#about-us)
+- [Screenshots](https://github.com/AnkitJishan/e-MANIT#screenshots)
+- [Contributions](https://github.com/AnkitJishan/e-MANIT#contributions)
+- [License](https://github.com/AnkitJishan/e-MANIT#license)
 
 ## Progress
 Till now, only version 0.1 of this website have been released. This website is a prototype build using roughly Rapid Prototyping Model (RAD), having most of the essential featueres with customer satisfaction. 
@@ -19,7 +19,7 @@ Till now, only version 0.1 of this website have been released. This website is a
 We've addressed some of the links to popular websites such as google, amazon, etc. but most of the links are for now kept blank (redirected to same page) except page transition links. Needless to say this prototype is under its beta-version. Also versions 0.x and 1.x are beta-versions.
 
 ## Demo
-Watch the working of live website [here](http://e-manit.onlinewebshop.net). Watch screenshots at Screenshots section below.
+Watch the working of live website [here](http://e-manit.onlinewebshop.net). Also see [Screenshots](https://github.com/AnkitJishan/e-MANIT#screenshots).
 
 ## Technologies Used
 - [HTML5](https://en.wikipedia.org/wiki/HTML)
