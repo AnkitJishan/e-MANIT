@@ -1,5 +1,5 @@
 # e-MANIT v0.1
-> e-MANIT: Your own shopping destination. A website prototype using HTML and CSS. e-MANIT is the web development project by Group number 7 (Ankit Chouhan and Jishan Shaikh) submitted as mini project in Principles of Programming Languages (PPL) Laboratory (CSE-219) winter 2017. The prototype clearly shows the power of HTML and CSS to create dynamic website on the go.
+> e-MANIT: Your own shopping destination. A website prototype using HTML and CSS. e-MANIT is the web development project by Group number 7 (Ankit Chouhan and Jishan Shaikh) submitted as mini project in Principles of Programming Languages (PPL) Laboratory (CSE-219) winter 2017. The prototype clearly shows the power of HTML and CSS to create dynamic website on the go. Visit [http://e-manit.onlinewebshop.net](http://e-manit.onlinewebshop.net).
 
 > The name **e-MANIT** comes from internet of MANIT (Maulana Azad National Institute of Technology, Bhopal), the undergraduate college of the developers addressing a proper shopping website.
 
@@ -19,7 +19,7 @@ Till now, only version 0.1 of this website have been released. This website is a
 We've addressed some of the links to popular websites such as google, amazon, etc. but most of the links are for now kept blank (redirected to same page) except page transition links. Needless to say this prototype is under its beta-version. Also versions 0.x and 1.x are beta-versions.
 
 ## Demo
-Watch the working of live website [here](). Watch screenshots at Screenshots section below.
+Watch the working of live website [here](http://e-manit.onlinewebshop.net). Watch screenshots at Screenshots section below.
 
 ## Technologies Used
 - [HTML5](https://en.wikipedia.org/wiki/HTML)
