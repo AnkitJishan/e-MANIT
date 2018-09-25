@@ -29,6 +29,7 @@ Watch the working of live website [here](http://e-manit.onlinewebshop.net). Also
 - Extract the master branch of project to your home directory/desktop.
 - Open extrated folder.
 - Open ``index.html`` file on your web-browser and enjoy!
+- See all the webpages.
 
 ## About Us
 - [Jishan Shaikh](github.com/jishanshaikh4)
