@@ -14,7 +14,7 @@
 - [License](https://github.com/AnkitJishan/e-MANIT#license)
 
 ## Progress
-Till now, only version 0.1 of this website have been released. This website is a prototype build using roughly Rapid Prototyping Model (RAD), having most of the essential featueres with customer satisfaction. 
+Till now, only version 0.1 of this website have been released. This website is a prototype build using roughly Rapid Prototyping Model (R A D), having most of the essential featueres with customer satisfaction. 
 
 We've addressed some of the links to popular websites such as google, amazon, etc. but most of the links are for now kept blank (redirected to same page) except page transition links. Needless to say this prototype is under its beta-version. Also versions 0.x and 1.x are beta-versions.
 
