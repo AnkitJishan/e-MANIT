@@ -46,7 +46,7 @@ Watch the working of live website [here](http://e-manit.onlinewebshop.net). Also
 ![](https://github.com/AnkitJishan/e-MANIT/blob/master/resources/Screenshot%20from%202018-07-19%2022-43-48.png)
 
 ## Contributions
-We are willing to accept contributions from open source developers. What you have to do is simply fork this repository, made changes to it, and leave a pull request. Anybody can contribute to this repository following industry ethics.
+We are willing to accept contributions from open source developers. What you have to do is simply fork this repository, made changes to it, and leave a pull request. Anybody can contribute to this repository following modern industry ethics.
 
 ## License
 This project is licensed under MIT Licence. You can not use, re-modify, distribute it for commercial purposes. Read more about licence [here](https://en.wikipedia.org/wiki/MIT_License).
